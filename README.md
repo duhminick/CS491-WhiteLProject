@@ -10,6 +10,7 @@ An analysis on the White L in Baltimore city.
 * rtree
 * numpy
 * six
+* scipy
 
 ## Installation
 The easiest way to install is to use Anaconda/conda
